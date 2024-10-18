@@ -1,8 +1,8 @@
 {
-  "name": "phpsagas/orchestrator",
+  "name": "yaoonline/phpsagas-orchestrator",
   "description": "Main component controls and coordinates saga participants",
   "keywords": ["orchestrator", "sagas"],
-  "homepage": "https://github.com/phpsagas/orchestrator",
+  "homepage": "https://github.com/yaoonline/phpsagas-orchestrator",
   "license": "MIT",
   "authors": [
     {
