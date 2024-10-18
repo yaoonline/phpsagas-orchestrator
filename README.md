@@ -42,7 +42,17 @@ Usage of orchestrator as a project package is more simple and allows to reduce m
 ## Installation
 You can install the package using [Composer](https://getcomposer.org/):
 ```bash
-composer require phpsagas/orchestrator
+composer require yaoonline/phpsagas-orchestrator
+```
+
+and add to composer.json
+```json
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/yaoonline/phpsagas-orchestrator.git"
+    }
+]
 ```
 
 ## Getting started
